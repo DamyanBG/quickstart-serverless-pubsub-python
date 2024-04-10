@@ -14,7 +14,7 @@
     {
       "type": "webPubSubConnection",
       "name": "connection",
-      "hub": "simplechat",
+      "hub": "testwithoutkey",
       "userId": "{query.user}",
       "direction": "in"
     }

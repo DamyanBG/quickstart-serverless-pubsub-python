@@ -5,14 +5,14 @@
       "type": "webPubSubTrigger",
       "direction": "in",
       "name": "data",
-      "hub": "simplechat",
+      "hub": "testwithoutkey",
       "eventName": "message",
       "eventType": "user"
     },
     {
       "type": "webPubSub",
       "name": "actions",
-      "hub": "simplechat",
+      "hub": "testwithoutkey",
       "direction": "out"
     }
   ]
