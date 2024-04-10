@@ -8,3 +8,13 @@ getting_started.md
 node_modules/@types/
 node_modules/azure-functions-core-tools/
 node_modules/typescript/
+*.pyc             # Python bytecode files
+__pycache__/      # Python cache directory
+.git/             # Git directory (if using Git)
+.vscode/          # Visual Studio Code directory (if using VSCode)
+*.env             # Environment variable files
+*.log             # Log files
+*.bak             # Backup files
+*.tmp             # Temporary files
+venv/             # Virtual environment directory
+.idea/            # PyCharm IDE directory
