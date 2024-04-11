@@ -1,10 +1,11 @@
 {
+  "scriptFile": "__init__.py",
   "bindings": [
     {
       "authLevel": "anonymous",
       "type": "webPubSubTrigger",
       "direction": "in",
-      "name": "data",
+      "name": "request",
       "hub": "simplechat",
       "eventName": "message",
       "eventType": "user"
